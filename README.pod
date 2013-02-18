@@ -29,7 +29,7 @@ hayajo E<lt>hayajo@cpan.orgE<gt>
 
 =head1 SEE ALSO
 
-L<Module::Setup::Plugin::VC::Git>
+L<Module::Starter>, L<Module::Setup::Plugin::VC::Git>
 
 =head1 LICENSE
 
