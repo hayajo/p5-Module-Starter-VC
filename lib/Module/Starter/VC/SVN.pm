@@ -50,6 +50,12 @@ Module::Starter::VC::SVN - subversion friendly
 
 Module::Starter::Plugin::SVN changes directory-tree into subversion-friendly when create a module.
 
+=head1 METHODS
+
+=head2 post_create_distro
+
+Changes directory-tree into subversion-friendly.
+
 =head1 AUTHOR
 
 hayajo E<lt>hayajo@cpan.orgE<gt>
